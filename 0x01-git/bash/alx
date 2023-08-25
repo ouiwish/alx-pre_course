@@ -1,2 +1,5 @@
-#!/bin/bash
-echo "ALX School"
+<<<<<<< HEAD
+// Changes from branch B
+=======
+// Changes from branch A
+>>>>>>> branchA
